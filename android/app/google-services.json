@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "599010112954",
+    "project_id": "lichvannien-8115d",
+    "storage_bucket": "lichvannien-8115d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599010112954:android:ecd6a4ff2c5f51d1799983",
+        "android_client_info": {
+          "package_name": "com.lichvn.lichvannien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599010112954-ai4q6bo68srnnl4saj1vrl1li0eus88b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqvbwxvohQep1ttWEsN8Lzz71eNsBpGQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599010112954-ai4q6bo68srnnl4saj1vrl1li0eus88b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599010112954-ampbddfav3fkrlv6jltfj9rmss66il9q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lichvn.lichvannien"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
